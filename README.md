@@ -64,5 +64,20 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-smart Europe is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
-- https://smart.com/
+Smart Europe is a multinational automotive and mobility company offering smart vehicles and connected services across Europe and worldwide. The brand provides a range of electric and hybrid models, advanced driver assistance systems, and a digital platform for vehicle management, market selection, and localized content. Through its global website, users can explore models, compare specifications, and access the latest news and updates tailored to their region and language.
+
+**Areas:** Company
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://smart.com/)
+- [Documentation](https://global.smart.com/developers)
+- [Blog](https://global.smart.com/blog)
+
+**APIs profiled:** 1
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/smart-com/](https://apis.io/providers/smart-com/).
